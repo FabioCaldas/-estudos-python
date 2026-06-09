@@ -63,20 +63,29 @@ Confira meus repositórios públicos: [GitHub Fabio](https://github.com/FabioCal
 
 ## 🤝 Pessoas Contribuidoras
 prof Maria Eduarda Ferreira De Melo 
+
 prof Mauricio Aniche
+
 prof Mônica Mazzoti Hillman
+
 prof Rafaella Ballerini
+
 prof Guilherme lima 
+
 prof Alexandre Gustavo Longui
+
 prof Gustavo Guanabara
+
 prof Sergio Assunção Monteiro
+
 prof Sidney Venturi
-Agradeço a todos que colaboram com feedbacks, issues e pull requests nos meus projetos.
+
+Agradeço aos meus Professores a minha familia e a  todos que colaboram com feedbacks, issues e pull requests nos meus projetos.
 
 ---
 
 ## 👨‍💻 Pessoas Desenvolvedoras do Projeto
-- [Fabio](https://github.com/seuusuario)  
+- [Fabio](https://github.com/Fabiocaldas)  
 
 ---
 
@@ -85,7 +94,7 @@ Agradeço a todos que colaboram com feedbacks, issues e pull requests nos meus p
 [streaming.pdf](https://github.com/user-attachments/files/28737897/streaming.pdf)
 [conclusao htmlcss.pdf](https://github.com/user-attachments/files/28737894/conclusao.htmlcss.pdf)
 [iniciante progrmaçao.pdf](https://github.com/user-attachments/files/28737889/iniciante.progrmacao.pdf)
-
+[Coursera.pdf](https://github.com/user-attachments/files/28738401/Coursera.pdf)
 
 ---
 
